@@ -1,15 +1,18 @@
-# TCSS-445-
-Prerequisites
-Before running the application, make sure you have the following installed:
+## Getting Started
 
-- Java Development Kit (JDK) 8 or above
-- Microsoft SQL Server Management 
-- JDBC driver 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Some stuff may not be fully functional, however the SQL is fully functional and complete.
+## Folder Structure
 
-Installation
-1. Download provided files below
-2. Open the project in your preferred Java IDE.
-3. Import the JDBC driver for SQL into project (depends on IDE)
-4. Run Main.java for UI interface regaurding tables for sql 
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
