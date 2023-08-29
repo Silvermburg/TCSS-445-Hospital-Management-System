@@ -1,18 +1,15 @@
-## Getting Started
+TCSS 445 - Spring 2023 - University of Washington - Tacoma
+For this project, we proposed to do a database based on a hospital management system
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Prerequisites
+Before running the application, make sure you have the following installed:
 
-## Folder Structure
+- Java Development Kit (JDK) 8 or above
+- Microsoft SQL Server Management 
+- JDBC driver 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Installation
+1. Download the provided files below
+2. Open the project in your preferred Java IDE
+3. Import the JDBC driver for SQL into the project (depends on IDE)
+4. Run Main.java for UI interface regarding tables for SQL
