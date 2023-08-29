@@ -1,4 +1,5 @@
 TCSS 445 - Spring 2023 - University of Washington - Tacoma
+
 For this project, we proposed to do a database based on a hospital management system
 
 Prerequisites
