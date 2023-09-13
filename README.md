@@ -1,4 +1,4 @@
-TCSS 445 - Spring 2023 - University of Washington - Tacoma
+TCSS 445 Spring 2023 - University of Washington - Tacoma
 
 For this project, we proposed to do a database based on a hospital management system
 This runs off a Java UI and can execute commands in SQL queries.
